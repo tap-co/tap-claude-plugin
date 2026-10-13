@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tap": {
+      "type": "http",
+      "url": "https://claude.mcp.tap.co/v1"
+    }
+  }
+}

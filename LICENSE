@@ -1,0 +1,23 @@
+Tap Claude plugin proprietary license
+
+Copyright (c) 2026 Tap.co LLC. All rights reserved.
+
+This license applies only to the Tap Claude plugin bundle: its manifest,
+connection configuration, workflow instructions, documentation, and assets.
+
+You may install and use the unmodified bundle to access Tap through supported
+Claude clients, subject to the applicable Tap terms at
+https://tap.co/buyer-terms. Access to Tap requires your own authorized account.
+
+Tap and its authorized plugin-directory operators may host and distribute
+unmodified copies of this bundle for that purpose, retaining this license and
+all copyright and attribution notices.
+
+No other permission to modify, sublicense, sell, or redistribute the bundle is
+granted. Public availability of these files does not make them open source.
+No rights to Tap's backend software or other proprietary materials are granted.
+Tap's names and marks remain the property of their respective owners.
+
+The bundle is provided "as is", without warranties of any kind, to the extent
+permitted by applicable law. For permissions outside this license, contact
+help@tap.co.
