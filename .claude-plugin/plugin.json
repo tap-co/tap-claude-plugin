@@ -1,7 +1,7 @@
 {
   "name": "tap-media",
   "displayName": "Tap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plan media, manage public and private RFPs, compare supplier responses, and prepare unsent Order drafts with Tap.",
   "author": {
     "name": "Tap.co LLC",
@@ -9,6 +9,8 @@
     "url": "https://tap.co"
   },
   "homepage": "https://tap.co",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://tap.co/privacy-policy",
   "license": "SEE LICENSE IN LICENSE",
   "keywords": ["media planning", "advertising", "RFP", "direct buy", "DOOH"]
 }
